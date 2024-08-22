@@ -30,7 +30,6 @@
 
  <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 
@@ -51,10 +50,10 @@
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TUNISIA-user&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TUNISIA-user&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TUNISIA-user&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUNISIA-user&theme=transparent" height="180em" alt="Commitments"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mah0ud9&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mah0ud9&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mah0ud9&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mah0ud9&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 <div align="center">

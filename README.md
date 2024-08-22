@@ -2,7 +2,7 @@
   <img src="header.png"/>
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Nahdi+Ghaith;Software+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=mahm0ud9;Software+Engineer" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
@@ -13,7 +13,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Full+Stack;DEV+WEB" width="auto" height="35"/>
 </p>
 
-<p align="center">Currently learning -Full Stack JS and Machine Learning</p>
+<p align="center">Currently learning -Full Stack JSg</p>
 <p align="center">Currently working on - Private Projects</p>
 
 <h3 align="center">Most Wanted Language</h3>
@@ -32,11 +32,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahm0ud9&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=true&theme=transparent" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahm0ud9&hide_border=true&theme=transparent" /> 
 </p>
 
 <!--Trophy-->
@@ -46,10 +46,10 @@
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahm0ud&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahm0ud&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahm0ud&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahm0ud&theme=transparent" height="180em" alt="Commitments"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahm0ud9&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahm0ud9&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahm0ud9&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahm0ud9&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 <div align="center">
@@ -58,4 +58,4 @@
 </div>
 
 ## Contributions
-![Khushi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahm0ud&theme=react-dark)
+![Khushi's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahm0ud9&theme=react-dark)

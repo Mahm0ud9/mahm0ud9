@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,react" /><br>
+  <img src="https://skillicons.dev/icons?i=next,firebase,react" /><br>
   
 </div>
 
